@@ -49,8 +49,8 @@ A robust and scalable Expense Tracker REST API built with Go and SOLID architect
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/expense-tracker-api.git
-cd expense-tracker-api/expense-tracker
+git clone https://github.com/vasei-me/expense-tracker-api.git
+cd expense-tracker-api
 ```
 
 ### 2. Install dependencies
